@@ -6,6 +6,7 @@
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+[![Check out ahmedsajidh's profile on stardev.io](https://stardev.io/developers/ahmedsajidh/badge/languages/global.svg)](https://stardev.io/developers/ahmedsajidh)
 
 
 
