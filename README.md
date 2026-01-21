@@ -4,7 +4,7 @@
 
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsajidh&theme=dark&show_icons=true)
 
 **Note:** Top languages is only a metric of the languages my public code consists of and does not reflect my experience or skill level.
 
