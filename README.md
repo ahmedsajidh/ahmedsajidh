@@ -4,7 +4,7 @@
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedsajidh&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 **Note:** Top languages is only a metric of the languages my public code consists of and does not reflect my experience or skill level.
 
