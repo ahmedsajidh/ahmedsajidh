@@ -11,4 +11,4 @@
 
 **Note:** Top languages is only a metric of the languages my public code consists of and does not reflect my experience or skill level.
 
-[![Check out ahmedsajidh's profile on stardev.io](https://stardev.io/developers/ahmedsajidh/badge/languages/global.svg)](https://stardev.io/developers/ahmedsajidh)
+
